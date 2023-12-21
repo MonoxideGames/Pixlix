@@ -1,3 +1,5 @@
+// canvas.js
+
 var canvas = new fabric.Canvas('drawingCanvas', {
     isDrawingMode: true,
     backgroundColor: 'rgba(0,0,0,0)',
